@@ -22,6 +22,11 @@
 <p align="left">
 </p>
 
+### Examples of Work
+
+<img src="https://github.com/lewis-boy/lewis-boy/blob/main/restaurant-gif.gif" alt="gericht-restaurant"/>
+<img src="https://github.com/lewis-boy/lewis-boy/blob/main/mern-memories-resume-gif.gif" alt="mern-memories"/>
+
 <h4>Skills and Tools: </h4>
 <p align="left">
 	<img style="margin: auto;" src="https://github.com/lewis-boy/lewis-boy/blob/main/api.png" alt=api width="60" height="60"/> 
